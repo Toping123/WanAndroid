@@ -19,8 +19,8 @@
 - 搜索，包含热搜和搜索历史
 
 ## APK下载
-- https://raw.githubusercontent.com/BTPJ/WanAndroid/MVVM/app/release/WanAndroid_V1.5.apk
-- Compose：https://raw.githubusercontent.com/BTPJ/WanAndroid/Compose/app/release/WanAndroid_V1.0.apk
+- https://raw.githubusercontent.com/Toping123/WanAndroid/MVVM/app/release/WanAndroid_V1.5.apk
+- Compose：https://raw.githubusercontent.com/Toping123/WanAndroid/Compose/app/release/WanAndroid_V1.0.apk
 
 ## 开源库
 - 图片处理：Glide
@@ -34,9 +34,9 @@
 - bugly应用升级与错误上传
 
 ## 项目地址
-- [Github MVVM分支](https://github.com/BTPJ/WanAndroid/tree/MVVM)
-- [Github Component分支](https://github.com/BTPJ/WanAndroid/tree/Component)
-- [Github Compose分支](https://github.com/BTPJ/WanAndroid/tree/Compose)
+- [Github MVVM分支](https://github.com/Toping123/WanAndroid/tree/MVVM)
+- [Github Component分支](https://github.com/Toping123/WanAndroid/tree/Component)
+- [Github Compose分支](https://github.com/Toping123/WanAndroid/tree/Compose)
 
 ## 致谢
 - WanAndroid网站提供的开放API, 和里面的一些优秀开源项目和文章
